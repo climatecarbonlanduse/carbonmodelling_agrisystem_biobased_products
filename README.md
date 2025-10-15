@@ -14,8 +14,13 @@ These involve:
 
 Underlying data management
 Formal analysis and modelling of included products
+  What products are being modeled and assumptions 
+
 Evaluation and results
+  The emissions, carbon stocks in products and soil, as well as the net carbon results with these combined
+  
 Figures and graphs
+  For the results of SOC and for Carbon stock, emissions, net. 
 
 
 
