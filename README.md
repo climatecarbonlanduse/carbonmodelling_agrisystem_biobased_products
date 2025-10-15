@@ -1,5 +1,5 @@
-**Carbon balances in agricultural system when producing biobased materials from press-cake residues from GBR
-**
+
+
 
 This is for the article written by Andreas Rehn et al 2025 The carbon balance of green biorefineries is significantly impacted by the processing of fibrous side streams
 
