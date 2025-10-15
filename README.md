@@ -12,6 +12,11 @@ The files here are the codes needed to understand the methodology, the construct
 
 These involve:
 
+Underlying data management
+Formal analysis and modelling of included products
+Evaluation and results
+Figures and graphs
+
 
 
 
